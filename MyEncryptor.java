@@ -1,7 +1,5 @@
 package security.practice;
 
-/*This is Encapsulation, where we define concrete implementation of Encryptor*/
-
 import java.security.InvalidKeyException;
 
 import javax.crypto.BadPaddingException;
