@@ -7,8 +7,6 @@ import javax.crypto.KeyGenerator;
 import javax.crypto.NoSuchPaddingException;
 import javax.crypto.SecretKey;
 
-/*This is Encapsulation, where we define concrete implementation of our class*/
-
 public class MyKeyGenerator 
 {
 	private static KeyGenerator keyGenerator;
