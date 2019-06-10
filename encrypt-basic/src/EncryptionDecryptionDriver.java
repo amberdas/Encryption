@@ -2,7 +2,9 @@
 
 public class EncryptionDecryptionDriver {
 
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
+        System.out.println("Simple encryption utility");
 
         String userName = "user1";
         String password = "pwd";
